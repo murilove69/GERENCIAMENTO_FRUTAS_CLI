@@ -32,5 +32,7 @@ Version: 2024-06 (4.32.0)
 
 ## Imagem
 
+![GERENCIAMENTO_FRUTAS_CLI](https://github.com/murilove69/GERENCIAMENTO_FRUTAS_CLI/blob/master/Gerenciamento%20Funcional.png).
+
 
 
